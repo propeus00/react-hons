@@ -11,3 +11,22 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.border1{
+  border: 3px solid red;
+}
+
+.border2{
+
+}
+
+#logoReact{
+  max-width: 50px;
+}
+
+.box-style{
+  border:1px solid rgba(0, 68, 255, 0.336);
+  border-radius: 2px;
+  box-shadow: 2px 2px 4px 0px rgba(0, 68, 255, 0.336);
+  margin:10px;
+}
